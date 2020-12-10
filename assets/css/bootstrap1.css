@@ -1,0 +1,32 @@
+.bingkai{
+    background-color: white;
+    padding: 5px 20px;
+    box-shadow: 0px 5px 80px 5px blue;
+    border-radius: 40px;
+   }
+   .utama{
+    padding: 5px 5px;
+    background-color: #732FFC;
+    text-align: center;
+    border-radius: 50px;
+    color: white;
+    box-shadow: 0px 0px 20px 4px blue;
+    font-size: 20px;
+   }
+   .aktif{
+  background-color: #732FFC;
+  font-weight: bold;
+ }
+ .aktif .text{
+  color: white;
+
+ }
+ .aktif .glyphicon{
+  color: white;
+ }
+ .page-header{
+  border-bottom: none;
+ width: 150px;
+ }
+
+
